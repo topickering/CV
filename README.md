@@ -1,29 +1,24 @@
-## Your Name
+## Tom Pickering
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former solicitor and recent graduate of Makers Academy.  During my time as a solicitor I specialised in pensions law and advised a variety of clients, ranging from the trustees of multi-billion pound pension schemes to small charities. I greatly enjoyed my time as a lawyer but felt that the time was right for a new challenge.  Having initially started learning to code as a weekend hobby and to try to understand more deeply something which is increasingly important in society and business, I realised that it was not only something which I enjoy and which suits my skills but also a potential new career.
+
+I am looking to contribute in a supportive team environment which will enable me to continue to develop my skills. 
 
 ## Skills
 
-#### This Skill
+#### Technical ability / attention to detail / problem solving / commercial awareness
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Project management
 
-- Experience
-- Achievements
-- Evidence
+In my time as a solicitor I was invovled in many long-term projects, both as a project leader and as a specialist within a larger team.  I allocated and supervised the work of other team members, ensuring that it was completed on schedule and matched the requirements of the project and the expectations of the client, whilst also carrying out my own tasks.  This supervisory role helped me to understand better how to respond both to clients and to managers.
 
-#### Another Skill
+#### Collaborative working
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I often worked with other specialists, whether other pensions advisers or lawyers with other specialisms.  In order to provide the most appropriate and efficient service to clients it was necessary to understand each team members roles, to liaise regularly in order to spot any potential issues as early as possible, and to trust the other specialists to deliver.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2018 to January 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +29,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### BPP Law School (September 2005 to June 2007)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- I obtained the Gradute Diploma in Law (aka the law conversion course) and the Legal Practice Certificate
 
-#### Any other qualifications
+#### University of Edinburgh (September 2000 to June 2004)
+
+- Psychology (MSc) - First Class 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Travers Smith LLP** (March 2008 to August 2018)    
+*Senior Associate*   
+
+## Outside work
+
+I love to travel, particularly if it involves skiing, scuba, hiking or kayaking.  I have always enjoyed the theatre, although since peaking at University with a three week run at the Edinburgh Fringe Festival this has largely been limited to watching plays rather than performing. 
+
+Since January 2017 I have acted as a trustee for a charity, HAEUK, which assists individuals who have hereditary angioedema as well as their families.  I have found this incredibly rewarding as it has enabled me to apply my legal knowledge in a more personal context, although I am not solely on the board in a legal capacity.
