@@ -57,7 +57,9 @@ The Makers Academy course focusses on pair programming and involves several grou
 ## Experience
 
 **Travers Smith LLP** (March 2008 to August 2018)    
-*Senior Associate*   
+*Senior Associate*  
+
+I was a member of the award-winning Pensions team at this law firm.
 
 ## Interests
 
