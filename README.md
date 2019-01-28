@@ -31,7 +31,7 @@ In my time as a solicitor I was invovled in many long-term projects, both as a p
 
 #### Collaborative working
 
-The Makers Academy course focusses on pair programming and involves several group projects.  In my career I often worked with other specialists.  In order to provide the most appropriate and efficient service to clients it was necessary to understand each team members roles, to liaise regularly in order to spot any potential issues as early as possible, and to trust the other specialists to deliver.
+The Makers Academy course focusses on pair programming and involves several group projects.  In my career I often worked with other specialists.  In order to provide the most appropriate and efficient service to clients it was necessary to understand the roles of each team member, to liaise regularly in order to spot any potential issues as early as possible, and to trust the other specialists to deliver.
 
 ## Education
 
@@ -43,8 +43,8 @@ The Makers Academy course focusses on pair programming and involves several grou
 - OOP, TDD, MVC
 - SOLID design principles
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Python, Django
+- RSpec, Jasmine, Pytest
 
 #### BPP Law School (September 2005 to June 2007)
 
@@ -53,6 +53,11 @@ The Makers Academy course focusses on pair programming and involves several grou
 #### University of Edinburgh (September 2000 to June 2004)
 
 - Psychology (MSc) - First Class 
+
+#### King's School Canterbury (September 1994 to June 1999, Academic Scholar)
+
+- A Level - 3 A (Maths, Chemistry, Biology)
+- GCSE - 10 A*, 1 A
 
 ## Experience
 
