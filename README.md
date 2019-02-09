@@ -12,9 +12,7 @@ During my time as a solicitor I specialised in pensions law and advised a variet
 |---|---|---|---|
 | [TweetMood](https://github.com/topickering/tweet_mood)  | 2 Weeks  | Final group project, a single-page app which searches twitter for recent tweets realted to an inputted topic, then subjects the tweets to two types of sentiment analysis | Python (Django), JavaScript, Pytest, Jasmine, Travis CI  |
 | [Acebook](https://github.com/topickering/acebook-firenze)  | 2 Weeks  | A social media website created as a group project created using Rails | Rails, RSpec, PostgreSQL, ActiveRecord, Travis CI  |
-| [News Summary Challenge](https://github.com/topickering/news-summary-challenge)  | 1 Weekend  | A single-page app which interacts with third-party APIs, and which uses a self-written testing suite  | JavaScript, Guardian API, Aylien API |
-| [Bowling Challenge](https://github.com/topickering/bowling-js) | 1 Weekend  | A dynamic page which enables users to calculate a score in a game of ten-pin bowling | JavaScript, Jasmine | 
-
+| [MakersBnB](https://github.com/topickering/news-summary-challenge)  | 1 Week  | A group project  | JavaScript, Nodejs,  | 
 
 ## Skills
 
@@ -37,10 +35,7 @@ The Makers Academy course focusses on pair programming and involves several grou
 ## Education
 
 #### Makers Academy (October 2018 to January 2018)
-
-- Curious and passionate about code
-- Fast, independent learner 
-- Great collaborator 
+ 
 - OOP, TDD, MVC
 - SOLID design principles
 - Agile/XP
