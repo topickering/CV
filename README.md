@@ -12,7 +12,7 @@ During my time as a solicitor I specialised in pensions law and advised a variet
 |---|---|---|---|
 | [TweetMood](https://github.com/topickering/tweet_mood)  | 2 Weeks  | Final group project, a single-page app which searches twitter for recent tweets realted to an inputted topic, then subjects the tweets to two types of sentiment analysis | Python (Django), JavaScript, Pytest, Jasmine, Travis CI  |
 | [Acebook](https://github.com/topickering/acebook-firenze)  | 2 Weeks  | A social media website created as a group project created using Rails | Rails, RSpec, PostgreSQL, ActiveRecord, Travis CI  |
-| [MakersBnB](https://github.com/topickering/news-summary-challenge)  | 1 Week  | A group project  | JavaScript, Nodejs,  | 
+| [MakersBnB](https://github.com/topickering/makersbandb)  | 1 Week  | A group project making a short-term property letting platform | JavaScript, Express, MongoDB, Jasmine, Cypress  | 
 
 ## Skills
 
