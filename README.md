@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am a former solicitor and recent graduate of Makers Academy, a coding bootcamp.  I am looking to join a supportive team environment which will enable me to contribute and to continue to develop my skills.
+I have been a professional software engineer since November 2019 and greatly enjoy working in an exciting, stimulating and ever-changing industry.
 
-During my time as a solicitor I specialised in pensions law and advised a variety of clients, ranging from the trustees of multi-billion pound pension schemes to small charities. I greatly enjoyed my time as a lawyer but felt that the time was right for a new challenge.  Having initially started learning to code as a weekend hobby and to try to understand more deeply something which is increasingly important in society and business, I realised that it was not only something which I enjoy and which suits my skills but also a potential new career.
+Prior to my career in development, I had a 10-year career as a solicitor at an award-winning commercial law firm and was ready for a new challenge.  acting on a long-standing general interest in tech, in late 2018 I enrolled on teh MAkers Academy bootcamp and after completing the camp (and taking some paternity leave!) I started my career as an engineer.
 
 ## Projects
 
@@ -56,6 +56,11 @@ The Makers Academy course focusses on pair programming and involves several grou
 - GCSE - 10 A*, 1 A
 
 ## Experience
+
+**Culture Trip** (November 2019 to September 2020)    
+*Software Engineer*  
+
+I focussed mainly on back end work, using Java, Groovy, SpringBoot and Micronaut.
 
 **Travers Smith LLP** (March 2008 to August 2018)    
 *Senior Associate*  
