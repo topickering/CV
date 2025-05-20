@@ -1,40 +1,46 @@
 ## Tom Pickering
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-I have been a professional software engineer since November 2019 and greatly enjoy working in an exciting, stimulating and ever-changing industry.
-
-Prior to my career in development, I had a 10-year career as a solicitor at an award-winning commercial law firm and was ready for a new challenge.  acting on a long-standing general interest in tech, in late 2018 I enrolled on teh MAkers Academy bootcamp and after completing the camp (and taking some paternity leave!) I started my career as an engineer.
-
-## Projects
-
-| Title | Timeframe | What is it?  | Technologies |  
-|---|---|---|---|
-| [TweetMood](https://github.com/topickering/tweet_mood)  | 2 Weeks  | Final group project, a single-page app which searches twitter for recent tweets realted to an inputted topic, then subjects the tweets to two types of sentiment analysis | Python (Django), JavaScript, Pytest, Jasmine, Travis CI  |
-| [Acebook](https://github.com/topickering/acebook-firenze)  | 2 Weeks  | A social media website created as a group project created using Rails | Rails, RSpec, PostgreSQL, ActiveRecord, Travis CI  |
-| [MakersBnB](https://github.com/topickering/makersbandb)  | 1 Week  | A group project making a short-term property letting platform | JavaScript, Express, MongoDB, Jasmine, Cypress  | 
+I have been a professional Software Engineer since November 2019 and greatly enjoy working in an exciting, stimulating and ever-changing industry. Prior to my career in development I had a 10-year career as a Solicitor in the Pensions Department of an award-winning law firm. 
 
 ## Skills
 
-#### Problem solving
+#### Languages/frameworks
 
-Problem solving is a key aspect of the Makers Academy bootcamp and legal practice.  Through my experience I have developed this skill and follow a logical process when faced with a new problem.  The TDD approach taught at Makers has helped me to further refine this process and ensure that my approach is applicable to coding.
+JavaScript, Typescript, Node.js, AWS, Microsoft Azure, Java (8, 11), SpringBoot, Ruby, Ruby on Rails, React, ReactAdmin, MongoDB, DocDB, Docker, Kubernetes, CircleCI, DataDog
 
-#### Clarity and attention to detail
+#### Methodologies
 
-A missing set of parentheses can prevent an app from running.  In a legal context inconsistency in the usage of a definition or ambiguous drafting can lead to lengthly and costly disputes.  To avoid these pitfalls in the short term it is necessary to pay close attention to detail and to develop the habit of checking work as you proceed: in coding following the red-green-refactor TDD cycle and appling the SOLID design principles are useful methods for achieving this.  In the longer term, making work (whether code or documentation) that is easy to read and change is vital to ensuring that the product has an acceptable lifespan.
+Agile, TDD, BDD
 
-#### Project management
+#### Other skills
 
-In my time as a solicitor I was invovled in many long-term projects, both as a project leader and as a specialist within a larger team.  I allocated and supervised the work of other team members, ensuring that it was completed on schedule and matched the requirements of the project and the expectations of the client, whilst also carrying out my own tasks.  This supervisory role helped me to understand better how to respond both to clients and to managers.
+Line management, presenting, consulting
 
-#### Collaborative working
+## Experience
 
-The Makers Academy course focusses on pair programming and involves several group projects.  In my career I often worked with other specialists.  In order to provide the most appropriate and efficient service to clients it was necessary to understand the roles of each team member, to liaise regularly in order to spot any potential issues as early as possible, and to trust the other specialists to deliver.
+**Kin + Carta** (November 2020 to May 2025)    
+*Software Engineer*  
+
+I have been involved in a variety of public and private sector projects as well as providing pro-bono assistance to a charity. I was a line manager for individuals who joined via our associate engineering program and was an active participant in the engineering community, regularly presenting at craft meetings.
+
+**Culture Trip** (November 2019 to September 2020)    
+*Software Engineer*  
+
+I was a member of a ‘linking squad’ investigating ways to optimise booking conversions.  The squad developed a bespoke rule engine which served variable content dependent upon user context.  
+
+**Makers Academy** (October 2018 to February 2019)    
+*Trainee Full-Stack Developer*  
+
+**Travers Smith LLP** (March 2008 to August 2018)    
+*Senior Associate*  
+
+I was a member of the award-winning Pensions team at this law firm.
 
 ## Education
 
-#### Makers Academy (October 2018 to January 2018)
+#### Makers Academy (October 2018 to February 2019)
  
 - OOP, TDD, MVC
 - SOLID design principles
@@ -55,20 +61,8 @@ The Makers Academy course focusses on pair programming and involves several grou
 - A Level - 3 A (Maths, Chemistry, Biology)
 - GCSE - 10 A*, 1 A
 
-## Experience
-
-**Culture Trip** (November 2019 to September 2020)    
-*Software Engineer*  
-
-I focussed mainly on back end work, using Java, Groovy, SpringBoot and Micronaut.
-
-**Travers Smith LLP** (March 2008 to August 2018)    
-*Senior Associate*  
-
-I was a member of the award-winning Pensions team at this law firm.
-
 ## Interests
 
 I love to travel, particularly if it involves skiing, scuba, hiking or kayaking.  I have always enjoyed the theatre, although since peaking at University with a three week run at the Edinburgh Fringe Festival this has largely been limited to watching plays rather than performing. 
 
-Since January 2017 I have acted as a trustee for a charity, [HAEUK](https://www.haeuk.org/), which assists individuals who have hereditary angioedema as well as their families.  I have found this incredibly rewarding as it has enabled me to apply my legal knowledge in a more personal context, although I am not solely on the board in a legal capacity.
+I previously acted as a trustee for a charity, [HAEUK](https://www.haeuk.org/), which assists individuals who have hereditary angioedema as well as their families.  I found this incredibly rewarding as it has enabled me to apply my legal knowledge in a more personal context, although I am not solely on the board in a legal capacity.
